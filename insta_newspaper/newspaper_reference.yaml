@@ -1,0 +1,41 @@
+# This reference may be considered only as a placeholder
+"Paris Soir":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb34519208g/date"
+  "year": "1939"
+  "simple_name": "parissoir"
+"L'Aurore":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb32706846t/date"
+  "year": "1898"
+  "simple_name": "laurore"
+"Comoedia":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb32745939d/date"
+  "year": "1909"
+  "simple_name": "comoedia"
+"Le Corsaire":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb34448436g/date"
+  "year": "1827"
+  "simple_name": "lecorsaire"
+"L'Echo d'Alger":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb327596899/date"
+  "year": "1929"
+  "simple_name": "lechodalger"
+"Excelsior":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb32771891w/date"
+  "year": "1914"
+  "simple_name": "excelsior"
+"Le Franc-Tireur":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb32777201w/date"
+  "year": "1945"
+  "simple_name": "lefranctireur"
+"L'Echo de Paris":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb34429768r/date"
+  "year": "1916"
+  "simple_name": "lechodeparis"
+"Paris Midi":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb32832672n/date"
+  "year": "1917"
+  "simple_name": "parismidi"
+"La Liberté":
+  "url": "https://gallica.bnf.fr/ark:/12148/cb328066631/date"
+  "year": "1882"
+  "simple_name": "laliberte"

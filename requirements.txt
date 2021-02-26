@@ -1,0 +1,5 @@
+PyYAML == 5.4.1
+opencv_python == 4.5.1.48
+requests == 2.23.0
+selenium == 3.14.0
+typer == 0.3.2

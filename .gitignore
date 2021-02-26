@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+*.egg-info
+dist/
+*.log
+venv/
+dist/
+build/
+geckodriver.log
+cookies.pkl
+config.yaml
