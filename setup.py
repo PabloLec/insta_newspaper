@@ -27,8 +27,8 @@ setup(
     install_requires=required_packages,
     package_data={
         "insta_newspaper": [
-            "insta_newspaper/config.yaml.example",
-            "insta_newspaper/instagram_strings.yaml",
+            "config.yaml.example",
+            "instagram_strings.yaml",
             "newspaper_reference.yaml",
         ]
     },
