@@ -1,6 +1,8 @@
 <p align="center">
-    :camera_flash: <b>Check out this repo in action!</b> :camera_flash:<br>
-    <img src="docs/assets/instagram_nametag_500px.png">
+    <a href="https://www.instagram.com/nouvelles_du_passe/">
+        :camera_flash: <b>Check out this repo in action!</b> :camera_flash:<br>
+        <img src="docs/assets/instagram_nametag_500px.png">
+    </a>
 </p>
 
 # Insta Newspaper [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
