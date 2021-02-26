@@ -1,5 +1,5 @@
 <p align="center">
-    :camera_flash: <b>Check out this repo in action!</b> :camera_flash:
+    :camera_flash: <b>Check out this repo in action!</b> :camera_flash:<br>
     <img src="docs/assets/instagram_nametag_500px.png">
 </p>
 
