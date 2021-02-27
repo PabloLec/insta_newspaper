@@ -8,6 +8,7 @@
 # Insta Newspaper [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Insta Newspaper is a CLI to download old newspaper front pages and post it on Instagram.
+
 It was done as a personal project but can be easily be adapted for your needs.
 
 ## Installation
@@ -35,6 +36,7 @@ pip install .
 
 - `insta_newspaper new_post -n SELECTED_NAMES [-h]`
   Main command to scrap image(s) and post it on IG. Just replace [SELECTED_NAMES] by one or more newspaper names. Names must be separated by spaces, you can also only input part of the names, the utility will look inside reference for matches.
+
   Add `-h` to start a headless Gecko driver. No Firefox window will be displayed.
 
 - `insta_newspaper save_cookies`
