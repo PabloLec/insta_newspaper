@@ -301,7 +301,7 @@ class InstagramApp:
 
         if len(hashtags) > 30:
             print(
-                "Too much hashtags, Instgram only allows 30 in your caption. Exiting."
+                "Too much hashtags, Instagram only allows 30 in your caption. Exiting."
             )
             exit()
 
