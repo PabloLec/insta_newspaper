@@ -266,10 +266,49 @@ class InstagramApp:
             year=chosen_date[:4], month=chosen_date[4:6], day=chosen_date[6:8]
         )
 
-        caption = " 📰 {name}\n 📅 {date}\n\nSource : Bibliothèque Nationale de France\n\n\n\n#{simple_name} #presse #journal #france #patrimoine #histoire #culture #heritage #newspaper #history #throwback #historia #historical #old #ancient #war #soldiers #worldwar".format(
+        hashtags = [
+            simple_name,
+            "presse",
+            "journal",
+            "france",
+            "patrimoine",
+            "histoire",
+            "culture",
+            "heritage",
+            "newspaper",
+            "history",
+            "throwback",
+            "historia",
+            "historical",
+            "old",
+            "ancient",
+            "vintage",
+            "oldies",
+            "tbt",
+            "throwback",
+            "photooftheday",
+            "picoftheday",
+            "instagood",
+            "instadaily",
+            "instalike",
+            "likeforlike",
+            "follow",
+            "followme",
+            "like",
+            "tagforlikes",
+            "followforfollow",
+        ]
+
+        if len(hashtags) > 30:
+            print(
+                "Too much hashtags, Instgram only allows 30 in your caption. Exiting."
+            )
+            exit()
+
+        caption = " 📰 {name}\n 📅 {date}\n\nSource : Bibliothèque Nationale de France\n\n\n\n#{hashtags}".format(
             name=name,
             date=formated_date,
-            simple_name=simple_name,
+            hashtags="# ".join(hashtags),
         )
 
         caption_area = wait.until(
