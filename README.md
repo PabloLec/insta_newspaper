@@ -9,7 +9,7 @@
 
 Insta Newspaper is a CLI to download old newspaper front pages and post it on Instagram.
 
-It was done as a personal project but can be easily be adapted for your needs.
+It was done as a personal project but can easily be adapted for your needs.
 
 ## Installation
 
